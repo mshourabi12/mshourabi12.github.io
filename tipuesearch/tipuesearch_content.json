@@ -1,0 +1,82 @@
+{
+    "pages": [
+        {
+            "tags": "",
+            "text": "I am graduated MSc student in electrical and computer engineering at Ferdowsi University of Mashhad. Currently, I am following my interests in the areas of machine learning and software science. Interests Machine learning and its applications Software science Internet of Things Intelligent vehicles Embedded systems News September 2021      Working on new version of my personal webpage!",
+            "title": "About",
+            "url": "/about.html"
+        },
+        {
+            "tags": "",
+            "text": "MSc Electrical and Computer Engineering, 2019 Ferwodsi University of Mashhad, Iran BSc Electrical and Computer Engineering, 2016 Ferdowsi University of Mashhad, Iran",
+            "title": "Education",
+            "url": "/education.html"
+        },
+        {
+            "tags": "",
+            "text": "I am graduated MSc student in electrical and computer engineering from Ferdowsi University of Mashhad, Iran. Currently, I am following my interests in the areas of machine learning and software science. Interests Machine learning and its applications Software science Internet of Things Intelligent vehicles Embedded systems News August 2021               Working on a new version of my personal webpage!",
+            "title": "Mahdi Shourabi",
+            "url": "/index.html"
+        },
+        {
+            "tags": "",
+            "text": "",
+            "title": "Projects",
+            "url": "/projects.html"
+        },
+        {
+            "tags": "",
+            "text": "",
+            "title": "Publications",
+            "url": "/publications.html"
+        },
+        {
+            "tags": "",
+            "text": "",
+            "title": "Search",
+            "url": "/search.html"
+        },
+        {
+            "tags": "",
+            "text": "",
+            "title": "Teaching",
+            "url": "/teaching.html"
+        },
+        {
+            "tags": "",
+            "text": "",
+            "title": "Blog",
+            "url": "/blog/index.html"
+        },
+        {
+            "tags": "",
+            "text": "First section Second Section",
+            "title": "First Chapter",
+            "url": "/fun/chapter_1.html"
+        },
+        {
+            "tags": "",
+            "text": "First section Second Section",
+            "title": "Second Chapter",
+            "url": "/fun/chapter_2.html"
+        },
+        {
+            "tags": "",
+            "text": "Introduction First Chapter Second Chapter",
+            "title": "Fun",
+            "url": "/fun/index.html"
+        },
+        {
+            "tags": "",
+            "text": "First paragraph!",
+            "title": "Introduction",
+            "url": "/fun/intro.html"
+        },
+        {
+            "tags": "",
+            "text": "Blog Fun",
+            "title": "More",
+            "url": "/more/index.html"
+        }
+    ]
+}
