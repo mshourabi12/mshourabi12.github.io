@@ -62,15 +62,15 @@
         },
         {
             "tags": "",
-            "text": "Introduction First Chapter Second Chapter",
-            "title": "Fun",
-            "url": "/fun/index.html"
+            "text": "Guitar playing Watching action movies Video games",
+            "title": "Hobbies",
+            "url": "/fun/hobbies.html"
         },
         {
             "tags": "",
-            "text": "First paragraph!",
-            "title": "Introduction",
-            "url": "/fun/intro.html"
+            "text": "Hobbies First Chapter Second Chapter",
+            "title": "Fun",
+            "url": "/fun/index.html"
         },
         {
             "tags": "",
