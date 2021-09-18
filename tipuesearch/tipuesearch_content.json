@@ -2,7 +2,7 @@
     "pages": [
         {
             "tags": "",
-            "text": "Want to know me in a glance? Check out what I usually read! I am a graduated student in electrical and computer engineering from Ferdowsi University of Mashhad, Iran. Currently, I am following my interests in the areas of machine learning and software science. Interests Machine learning and its applications Software science Internet of Things Intelligent vehicles Embedded systems",
+            "text": "Want to know me in a glance? Check out what I usually read! I am graduated in electrical and computer engineering from Ferdowsi University of Mashhad, Iran. Currently, I am following my interests in the areas of machine learning and software science. Interests Applied machine learning Software science Internet of Things Intelligent vehicles Embedded systems Want to know me in a glance? Check out what I usually read!",
             "title": "About",
             "url": "/about.html"
         },
@@ -14,13 +14,13 @@
         },
         {
             "tags": "",
-            "text": "I am a graduated student in electrical and computer engineering from Ferdowsi University of Mashhad, Iran. Currently, I am following my interests in the areas of machine learning and software science. Interests Machine learning and its applications Software science Internet of Things Intelligent vehicles Embedded systems Want to know me in a glance? Check out what I usually read! News August 2021               Working on a new version of my personal webpage!",
+            "text": "I am graduated in electrical and computer engineering from Ferdowsi University of Mashhad, Iran. Currently, I am following my interests in the areas of machine learning and software science. Interests Applied machine learning Software science Internet of Things Intelligent vehicles Embedded systems Want to know me in a glance? Check out what I usually read! News August 2021               Working on a new version of my personal webpage!",
             "title": "Mahdi Shourabi",
             "url": "/index.html"
         },
         {
             "tags": "",
-            "text": "Academic Using deep learning to detect ophthalmic diseases, 2021 Traditionally, ophthalmologists had to take images from patients' eye with specific instruments, and analyze those images manually to detect any possible anomaly in the eye. The goal of project was to exploit deep learning methods to do the detection phase automatically. That is deep layers of neurons will be trained to classify images obtained from ophthalmology instruments. The results show that a well tuned deep network along with a large enough dataset can accurately detect the anomalies. This model in turn can be used in smartphones to help opticians in the disorder detection. Vibration analysis from raw sensory data, 2017 will be added From Industry Android system modifying to filter external devices, 2020 A modification on the android external device management, a.k.a Volume Manager or VOLD, performed to authorize devices that are introduced privously to the system. Authorized devices must be added in a whitelist database by the admin. Unauthorized devices couldn't create device files in the target filesystem. This modification could be useful for customized android systems in critical infrastructures such as vehicles or building management systems that might be vulnerable to malicious external devices. ExpressIO: A fast and highly reliable signal conditioner system, 2018 will be added Self-motivated Instagram Bot, 2019 The project goal was to develop a bot using automatic interactions with the browser that can handle instagram activities such as liking, commenting, etc. It is temporarily suspended due to massive intelligence of ig engine!",
+            "text": "Academic Using deep learning to detect ophthalmic diseases, 2021 Traditionally, ophthalmologists had to take images from patients' eye with specific instruments, and analyze those images manually to detect any possible anomaly in the eye. The goal of project was to exploit deep learning methods to do the detection phase automatically. That is deep layers of neurons will be trained to classify images obtained from ophthalmology instruments. The results show that a well tuned deep network along with a large enough dataset can accurately detect the anomalies. This model in turn can be used in smartphones to help opticians in the disorder detection. Vibration analysis from raw sensory data, 2017 The goal of this project was to process raw data from an accelerometer to extract velocity and displacement types of vibration. These values in turn would be used to stop a mission-critial operation in certain vibration levels (say 30 mm/s). Major challenges in this project were applying suitable digital filters to clean noisy acceleration signal, and doing appropriate differentiation on the data to extract velocity and displacement information. All of the algorithms first simulated on MATLAB, then transformed to C code to run on a Cortex-M4F microcontroller. From Industry Android system modifying to filter unauthorized external devices, 2020 A modification on the android external device management, a.k.a Volume Manager or VOLD, performed to authorize devices that are introduced privously to the system. Authorized devices must be added in a whitelist database by the admin. Unauthorized devices couldn't create device files in the target filesystem. This modification could be useful for customized android systems in critical infrastructures such as vehicles or building management systems that might be vulnerable to malicious external devices. ExpressIO: A fast and highly reliable signal conditioner system, 2018 Gas turbine controller system constitues of multiple layers including the main processors (CPUs), sensors to gather status of mechanical parts, actuators to perform mechanical actions, and intermediate signal conditioner system(s) to convey information between CPUs and sensor/actuators. It is obvious that all of these levels should meet a certain level of speed, accuracy, and reliability. Otherwise the whole of the system could fail. ExpressIO is a fast and robust signal conditioner system with a variety of I/Os including digital I/Os, analog I/Os, and high precision counters. This system provide high robustness by having redundancies both in its hardware and software architecture. In the software, it benefits of a FreeRTOS kernel to meet real-time constrained tasks with a whole response time of 2ms. Also, it has two redundant Profibus tarnsmission channels to exchange information with industrial CPUs. This product is currently operational in some power plant units in Iran. Fig.1 - ExpressIO Fig.2 - ExpressIO laboratory tests Self-motivated Instagram Bot, 2019 The project goal was to develop a bot using automatic interactions with the browser that can handle instagram activities such as liking, commenting, etc. It is temporarily suspended due to massive intelligence of ig engine!",
             "title": "Projects",
             "url": "/projects.html"
         },
@@ -50,25 +50,13 @@
         },
         {
             "tags": "",
-            "text": "First section Second Section",
-            "title": "First Chapter",
-            "url": "/fun/chapter_1.html"
-        },
-        {
-            "tags": "",
-            "text": "First section Second Section",
-            "title": "Second Chapter",
-            "url": "/fun/chapter_2.html"
-        },
-        {
-            "tags": "",
             "text": "Guitar playing Watching action movies Video games",
             "title": "Hobbies",
             "url": "/fun/hobbies.html"
         },
         {
             "tags": "",
-            "text": "My Books Hobbies First Chapter Second Chapter",
+            "text": "My Books Hobbies",
             "title": "Fun",
             "url": "/fun/index.html"
         },
